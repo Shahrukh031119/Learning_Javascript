@@ -38,3 +38,11 @@ function third(fourth, message) {
 }
 
 third(second)
+
+// JS - dynamic client side scripting.
+// prerequisites -
+//      • understanding web
+//      • HTML
+//      • CSS
+
+// ------------------ working of the Internet
